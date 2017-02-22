@@ -11,5 +11,3 @@ npm start
 ## Deploy
 
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/caiogondim/signalhub-server&env=NOW_API_KEY)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
