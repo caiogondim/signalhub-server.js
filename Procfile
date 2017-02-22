@@ -1,1 +1,1 @@
-web: npm run signalhub listen -p 8080 $PORT
+web: ./node_modules/signalhub listen -p 8080 $PORT
